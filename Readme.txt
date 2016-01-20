@@ -33,4 +33,16 @@ The above line will help to create a folder called .git and relevant git files
 
 10. git diff --cached
 - this command will provide the difference in cached / staged files
+
+11. git log --oneline
+- will provide list of all commits with one line messages
+
+12.  Shift zz
+- short cut to come out of the bash
+
+13. git commit -a -m "your message"
+- will stage and commit in one go
+
+14. git status -s
+- will provide what has been modified (list of file names only)
    
