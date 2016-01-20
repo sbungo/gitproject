@@ -1,4 +1,6 @@
 *****Readme******
+Following are the list of commands in git
+
 1. To initialize a project use >> git init <project-name>
 The above line will help to create a folder called .git and relevant git files
 
@@ -14,3 +16,11 @@ The above line will help to create a folder called .git and relevant git files
 4. git add Readme.txt
 - this command will add the specific file name to track
 
+5. git rm --cached Test1.txt
+- this command will remove the Test1.txt file from cached / unstage
+
+6. git commit -m "initial commit"
+- this command will commit the project files
+
+7 git log
+- this command will display the status of commit
