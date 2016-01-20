@@ -11,7 +11,7 @@ The above line will help to create a folder called .git and relevant git files
 - hints on what to do next
 
 3. git add .
-- this command will add all the folders / files in this directory to track
+- this command will add all the folders / files in this directory to track in the staging area
 
 4. git add Readme.txt
 - this command will add the specific file name to track
@@ -24,3 +24,7 @@ The above line will help to create a folder called .git and relevant git files
 
 7 git log
 - this command will display the status of commit
+
+8.before commiting any files, it needs to go from staging area and for that we need to do (git add) command
+  and then (git commit -m "message") command
+   
