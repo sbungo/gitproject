@@ -27,4 +27,10 @@ The above line will help to create a folder called .git and relevant git files
 
 8.before commiting any files, it needs to go from staging area and for that we need to do (git add) command
   and then (git commit -m "message") command
+
+9. git diff
+- this command will provide the differences in all the files
+
+10. git diff --cached
+- this command will provide the difference in cached / staged files
    

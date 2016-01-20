@@ -1,2 +1,4 @@
 this is a text file
-Added another line
+Added another line1
+line2
+
