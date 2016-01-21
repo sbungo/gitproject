@@ -45,4 +45,8 @@ The above line will help to create a folder called .git and relevant git files
 
 14. git status -s
 - will provide what has been modified (list of file names only)
+
+15. git remote add origin "ssh github repository name"
+
+16. git push origin master
    
